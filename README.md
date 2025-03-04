@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="centre">Hi! 👋, I'm Sona</h2>
-<h4 align="centre">A passionate Software Developer from India</h4>
+<h1 align="center">Hi! 👋, I'm Sona</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 <p>
 - 🔭 I’m currently working on "Climatic"
 
