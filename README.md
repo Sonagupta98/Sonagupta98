@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi! 👋 -->
 
 <!--
 **Sonagupta98/Sonagupta98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="centre">Hi! 👋, I'm Sona</h2>
+<h4 align="centre">A passionate Software Developer from India</h4>
+<p>
+- 🔭 I’m currently working on "Climatic"
+
+- 🌱 I’m currently learning React js
+
+<!-- - 👯 I’m looking to collaborate on  -->
+
+- 👨‍💻 All of my projects are available at https://github.com/Sonagupta98
+
+- 💬 Ask me about JavaScript
+
+- 📫 How to reach me guptasona086@gmail.com
+
+<!-- - 📄 Know about my experiences https://drive.google.com/ -->
+
+- ⚡ Fun fact I spend more time debugging than coding... it's basically my superpower now!
+</p>
